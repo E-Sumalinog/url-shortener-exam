@@ -4,5 +4,6 @@
 - clone the repository
 - Local Database usage (Laragon) or Xampp
 - Create a database called url-shortener
+- Run the command php spark migrate to generate the tables in the database in `api-url` folder
 - run the api-url using command `php spark serve` (Backend)
 - run the app-rul using command `npm start` (FrontEnd)
